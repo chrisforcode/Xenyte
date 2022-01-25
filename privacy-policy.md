@@ -1,3 +1,7 @@
+---
+permalink: /privacy-policy/
+---
+
 Twitter Bot Privacy Policy
 ==============
 
