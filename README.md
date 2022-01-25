@@ -7,9 +7,11 @@ Last revised on 25/01/2022
 Join the [Twitter Bot support Discord server](https://discord.gg/4ru95RgHqu) or send an email to chrisloowonline@gmail.com for questions or anything else regarding Twitter Bot.
 
 ### Personal data being collected
-Some personal data is temporarily being stored by Twitter Bot to ensure that all users have the best possible experience. This data is only collected when a user creates a tweet. When a user stops using Twitter Bot, his/her data will automatically be deleted within 30 days. Upon removing Twitter Bot from a Discord server, it will stop collecting data on that Discord server. The exact personal data being stored is listed below.
+Personal data is collected by Twitter Bot to ensure that all users have the best possible experience. This data is only collected when a user creates a tweet. When a user stops using Twitter Bot, his/her data will automatically be deleted within 30 days. Upon removing Twitter Bot from a Discord server, it will stop collecting data on that Discord server. The exact personal data being stored is listed below.
+
 **Tweet**
 - The message that is displayed.
+
 **User**
 - Username.
 - Nickname on the server.
@@ -26,5 +28,7 @@ When a message is converted into an image representing a tweet, the original mes
 Data collected by Twitter Bot will never be sold to third parties.
 
 ### How to opt-out of features
-It is possibly to opt-out of all features by using the `/twitter delete` command. As Twitter Bot's main feature is converting messages into images that represent tweets, this will opt the user out of that feature.
+It is possible to opt-out of all features by using the `/twitter delete` command. As Twitter Bot's main feature is converting messages into images that represent tweets, this will opt the user out of that feature.
 
+### Data protection
+Twitter Bot safely stores data and a there's a lot being done to prevent potential vulnerabilities.
