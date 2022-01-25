@@ -23,7 +23,7 @@ Whenever someone sends a message, Twitter Bot will check if the message was sent
 Personal data is being collected for the duration of 30 days. This means that any personal data older than 30 days will be deleted. The reason behind this duration is that it is required to interact with a tweet for 30 days. When personal data is deleted from a tweet, interacting with it won't work anymore.
 
 ### Why personal data is being collected
-When a message is converted into an image representing a tweet, the original message will be deleted. At this point it is impossible to retrieve the content of this message and who originally created it. Therefore this data will temporarily be stored to allow users to interact with the tweet. Interactions include retweets and likes.
+When a message is converted into an image representing a tweet, the original message will be deleted. At this point it is impossible to retrieve the content of this message and who originally created it. Therefore, this data will temporarily be stored to allow users to interact with the tweet. Interactions include retweets and likes.
 
 Data collected by Twitter Bot will never be sold to third parties.
 
